@@ -5,7 +5,7 @@ import threading
 import time
 
 # Вставьте ваш токен
-TOKEN = "7290853383:AAGY2Q2YAtM8ZjN8qa7VQnus7gAi0o3tLCo"
+TOKEN = "Ваш токен"
 bot = telebot.TeleBot(TOKEN)
 
 # Хранилище задач
